@@ -26,11 +26,15 @@ A versatile username generator with multiple generation methods, built with Pyth
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHNSHYDV&layout=compact&theme=radical)](https://github.com/DHNSHYDV)
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DHNSHYDV&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-yadav-ab4a912b9/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bootloopgang)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushyadavkrish@gmail.com)
 
 ## 📈 GitHub Streak
 
